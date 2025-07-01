@@ -15,8 +15,5 @@ Tech stack highlights include: `Vue & Nuxt`, `Python`, `Flask`, `SQLAlchemy`, `S
 ![](https://nirzak-streak-stats.vercel.app/?user=mohameddhussien&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddhussien&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohameddhussien&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mohameddhussien&icon=0&color=12)](https://visitcount.itsvg.in)
